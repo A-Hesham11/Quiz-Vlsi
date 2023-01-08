@@ -1,0 +1,498 @@
+[
+    {
+        "title": "An integrated circuit sometimes called&nbsp",
+        "answer_1": "circuit",
+        "answer_2": "transistor",
+        "answer_3": "microchip",
+        "answer_4": "circuit on chip",
+        "right_answer": "microchip"
+    },
+    {
+        "title": "An integrated circuit (IC),is a semiconductor wafer on which thousands or millions of tiny resistors, inductors, and transistors are fabricated.",
+        "answer_1": "true",
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"
+    },
+    {
+        "title": "An integrated circuit (IC), sometimes called a chip or microchip, is a semiconductor wafer on which thousands or millions of tiny resistors,capacitors,and transistors are fabricated.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"
+    },
+    {
+        "title":"Advantages of ICs over discrete components (PCB design)",
+        "answer_1":	"small size",
+        "answer_2":	"high power consumption",
+        "answer_3":	"expensive",
+        "answer_4":	"low reliability",
+        "right_answer": "small size"
+    },
+    {
+        "title":"One of the advantages of Ics over discrete components is low reliability",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"	
+    },
+    {
+        "title":"High reliability means&nbsp;",
+        "answer_1": "low probability of failure and long lifetime",
+        "answer_2": "high probability of failure and long lifetime",
+        "answer_3":	"low probability of failure and short lifetime",
+        "answer_4":	"high probability of failure and short lifetime",
+        "right_answer": "low probability of failure and long lifetime"	
+    },
+    {
+        "title": "If one compnenet in IC fails, that means not whole circuit has to be replaced&nbsp;",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"	
+    },
+    {
+        "title": "Ics have large capacitances.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"	
+    },
+    {
+        "title": "Ics have limited capacitances.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"	
+    },
+    {
+        "title": "It is possible to fabricate transformers or any other&nbsp;kind of inductor on to the ICs",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"	
+    },
+    {
+        "title": "ICs are&nbsp;flexible",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"	
+    }, 
+    {
+        "title": "What is not a property of vacuum tubes",
+        "answer_1": "expensive",
+        "answer_2": "power hungry",
+        "answer_3": "unreliable",
+        "answer_4": "light weight",
+        "right_answer": "light weight"
+    },
+    {
+        "title": "What is not one of BJT advantages",
+        "answer_1": "reliability",
+        "answer_2": "high switching speed",
+        "answer_3": "high durability",
+        "answer_4": "large chip size",
+        "right_answer": "large chip size"
+    },  
+    {
+        "title": "PMOS suffers from poor performance&nbsp;",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"
+    },
+    {
+        "title": "The cause of low speed in PMOS is&nbsp;",
+        "answer_1": "the mobility of holes is equal to mobility of electrons",
+        "answer_2":	"the mobility of holes is two&amp;nbsp;times slow than mobility of electrons",
+        "answer_3":	"the mobility of holes is two&amp;nbsp;times fast than mobility of electrons",
+        "answer_4":	"the mobility of electrons&amp;nbsp;is two&amp;nbsp;times slow than mobility of holes",
+        "right_answer": "the mobility of holes is two&amp;nbsp;times slow than mobility of electrons"
+    },
+    {
+        "title": "the facrication process of NMOS is ......... compared to&nbsp;the fabrication of PMOS",
+        "answer_1": "difficult",
+        "answer_2": "simple",
+        "answer_3": "the same",
+        "answer_4": "shorter time",
+        "right_answer": "difficult"
+    },
+    {
+        "title": "PMOS consumes power when idle",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    }, 
+    {
+        "title": "IC layout, is the representation of an IC&nbsp;in terms of planar geometric shapes which correspond to the patterns of conductor&nbsp;layers that make up the components of the IC",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"
+    }, 
+    {
+        "title": "An SoC is a type of IC and has the capabilities of a computer but built into a chip,capable of running an operating system.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"
+    },
+    {
+        "title": "What is not feature of SoC",
+        "answer_1": "compact",
+        "answer_2":	"high speed",
+        "answer_3":	"reliable",
+        "answer_4":	"expensive",
+        "right_answer": "expensive"
+    },
+    {
+        "title": "A SoC needs operating system",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "The number of transistors in small scale integration is",
+        "answer_1": "10",
+        "answer_2": "1",
+        "answer_3": "100",
+        "answer_4": "1000",
+        "right_answer": "10"
+    },
+    {
+        "title": "If the number of transistors in a chip is 200 then it&#39;s technology is&nbsp;",
+        "answer_1": "Small scale integration (SSI)",
+        "answer_2": "Medium scale integration (MSI)",
+        "answer_3": "Large scale integration (LSI)",
+        "answer_4": "Very large scale integration(VLSI)",
+        "right_answer": "Medium scale integration (MSI)"
+    },
+    {
+        "title": "If the number of transistors in a chip is 10000 then it&#39;s technology is&nbsp;",
+        "answer_1": "Medium scale integration (MSI)",
+        "answer_2": "Large scale integration (LSI)",
+        "answer_3": "Very large scale integration (VLSI)",
+        "answer_4": "Ultra large scale integration (ULSI)",
+        "right_answer": "Large scale integration (LSI)"
+    },
+    {
+        "title": "In Very large scale integration (VLSI) technology the range of transistors are&nbsp;",
+        "answer_1": "10-1000",
+        "answer_2": "1000-2000",
+        "answer_3": "20000-1000000",
+        "answer_4": "1000000-10000000",
+        "right_answer": "20000-1000000"
+    },
+    {
+        "title": "In Ultra large scale integration (ULSI) technology the range of transistors are&nbsp;",
+        "answer_1": "20000-1000000",
+        "answer_2": "1000000-10000000",
+        "answer_3": "100000-1000000",
+        "answer_4": "10000000-20000000",
+        "right_answer": "1000000-10000000"
+    },
+    {
+        "title": "on of the applications of giant scale integration (GSI)",
+        "answer_1": "system on chip",
+        "answer_2": "special purpose microprocessor",
+        "answer_3": "32- bit microprocessor",
+        "answer_4": "Ram",
+        "right_answer": "system on chip" 
+    },
+    {
+        "title": "On of the applications of large scale integration (LSI)",
+        "answer_1": "8-bit microprocessor",
+        "answer_2": "Multiplixer",
+        "answer_3": "op-amp",
+        "answer_4": "embedded systems",
+        "right_answer": "8-bit microprocessor"
+    },
+    {
+        "title": "Moor&#39;s law declared in ..........year&nbsp;",
+        "answer_1": "1965",
+        "answer_2": "1956",
+        "answer_3": "1966",
+        "answer_4": "1955",
+        "right_answer": "1965"
+    },
+    {
+        "title": "Moore predicted that the number of transistors that could be manufactured on a chip will be doubled every 16&nbsp;months.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "According to Mooer&#39;s law, if the number of transistors in a chip is 2 millions. it is expexted after 3 yeras the number of transistors will be",
+        "answer_1": "2 millions",
+        "answer_2": "4 millions&amp;nbsp;",
+        "answer_3": "6 millions",
+        "answer_4": "8 millions&amp;nbsp;",
+        "right_answer": "8 millions&amp;nbsp;"
+    },
+    {
+        "title": "What will not happen when the transistor shrinks",
+        "answer_1": "becomes faster",
+        "answer_2": "becomes consume less power",
+        "answer_3": "becomes cheaper to manufacture&amp;nbsp;",
+        "answer_4": "becomes high resistive",
+        "right_answer": "becomes high resistive"
+    },
+    {
+        "title": "The transistor channel length is the distance between the source and drain of a transistor and is set by the minimum length of a polysilicon wire.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "Classification of ICs according to function, dont classifies IC as&nbsp;&nbsp;",
+        "answer_1": "Analog",
+        "answer_2": "Digital",
+        "answer_3": "Mixed",
+        "answer_4": "Monolithic",
+        "right_answer": "Monolithic"
+    },
+    {
+        "title": "Which is not an example of mixed signal IC",
+        "answer_1": "radar",
+        "answer_2": "ADC",
+        "answer_3": "DAC",
+        "answer_4": "OPAMP",
+        "right_answer": "OPAMP"
+    },
+    {
+        "title": "A monolithic IC is a miniaturized electronic circuit including active&nbsp;components&nbsp;and their interconnections are being manufactured in the surface of a thin substrate of semiconductor material.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "Film IC&nbsp;can only be used as passive circuit components",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"
+    },
+    {
+        "title": "Film components are made of either capacitive or noncapacitive material that is deposited in desired pattern on a ceramic or glass substrate.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "Hybrid IC technology is the combination of mixed&nbsp;circuits and film technology.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "One of the disadvantages of VMOS technology is the disability of handling high power.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "CMOS has the capability to operate in high current and voltage",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "BICMOS is a low fabrication cost",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"        
+    },
+    {
+        "title": "BICMOS combines BJT and CMOS on the same chip to generate high Speed and low power dissipation",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"
+    },
+    {
+        "title": "The size of the transistors and wires is set by the channel dimensions",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"
+    },
+    {
+        "title": "The fabrication sequence consists of a series of steps in which layers of the chip are defined through a process called masks",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "Photolithography is a process of transferring patterns of geometric shape on a mask onto a conductive material called photoresist, covering the entire silicon wafer surface.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "Smaller transistors are faster because electrons have to travel as far to get from the source to the drain.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "Smaller transistors consume high energy because fewer electrons are needed to charge up the gates.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },    
+    {
+        "title": "The inverter could be defined by a hypothetical set of six masks in the following order",
+        "answer_1": "n-well&amp;nbsp; - polysilicon - n+diffusion - p+diffusion - contacts - metal",
+        "answer_2": "n-well&amp;nbsp; - polysilicon - n+diffusion - p+diffusion - metal- contacts",
+        "answer_3": "n-well&amp;nbsp; - polysilicon - p+diffusion - n+diffusion - contacts - metal",
+        "answer_4": "n-well&amp;nbsp; - n+diffusion - p+diffusion - contacts - metal -&amp;nbsp;polysilicon",
+        "right_answer": "n-well&amp;nbsp; - polysilicon - p+diffusion - n+diffusion - contacts - metal"
+    },
+    {
+        "title": "The photoresist is stripped away from the surface of the wafer using",
+        "answer_1": "a mixture of acids called piranha etch",
+        "answer_2": "hydro fluoricacid (HF)",
+        "answer_3": "silane gas (SiH4)",
+        "answer_4": "SiO2",
+        "right_answer": "a mixture of acids called piranha etch"
+    },
+    {
+        "title": "The two ways to add dopants to the wafer are",
+        "answer_1": "diffusion and ion implantation.",
+        "answer_2": "oxidization and ion implantation.",
+        "answer_3": "oxidization and ion heating.",
+        "answer_4":	"draft and ion implantation.",
+        "right_answer": "diffusion and ion implantation."
+    },
+    {
+        "title": "In the ion implantation process, the wafer is placed in a furnace with a gas containing the dopants. When heated, dopant atoms diffuse into the substrate.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "In diffusion, dopant ions are accelerated through an electric field and blasted into the substrate.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "The wafer is placed in a reactor with silane gas (SiH4) and heated again to grow the polysilicon layer through a process called",
+        "answer_1": "chemical vapor deposition",
+        "answer_2":"diffusion",
+        "answer_3": "ion acceleration&amp;nbsp;",
+        "answer_4": "ion implantation",
+        "right_answer": "chemical vapor deposition"
+    },
+    {
+        "title": "In CMOS fabrication, layout gives the placement of different components and their connection details but with no dimensions.",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "In IC fabrication,  is",
+        "answer_1": "the feature size",
+        "answer_2": "half the feature size",
+        "answer_3": "transistor length",
+        "answer_4": "polysilicon width",
+        "right_answer": "half the feature size"
+    },
+    {
+        "title": "Metal and diffusion have minimum width and spacing of 6 𝜆",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "false"
+    },
+    {
+        "title": "Polysilicon uses a width of........&nbsp;",
+        "answer_1": "2𝜆",
+        "answer_2": "𝜆",
+        "answer_3": "4𝜆",
+        "answer_4": "𝜆/2",
+        "right_answer": "2𝜆"
+    },
+    {
+        "title": "Polysilicon and contacts have a spacing of........... from other polysilicon or contacts.",
+        "answer_1": "3𝜆",
+        "answer_2": "𝜆",
+        "answer_3": "2𝜆",
+        "answer_4": "4𝜆",
+        "right_answer": "3𝜆"
+    },
+    {
+        "title": "Polysilicon overlaps diffusion by",
+        "answer_1": "2𝜆",
+        "answer_2": "𝜆",
+        "answer_3": "3𝜆",
+        "answer_4":	"4𝜆",
+        "right_answer": "2𝜆"
+    },
+    {
+        "title": "N-well surrounds pMOS transistors by ......... and avoids nMOS transistors by........",
+        "answer_1": "6𝜆 - 6𝜆",
+        "answer_2": "6𝜆 - 4𝜆",
+        "answer_3": "4𝜆 - 6𝜆",
+        "answer_4": "4𝜆 - 4𝜆",
+        "right_answer": "6𝜆 - 6𝜆"
+    },
+    {
+        "title": "In CMOS fabrication pMOS transistors are often wider than nMOS transistors",
+        "answer_1": "true",	
+        "answer_2": "false",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "true"
+    }
+]
